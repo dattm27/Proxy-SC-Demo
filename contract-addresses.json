@@ -1,0 +1,10 @@
+{
+    "avalanche": {
+        "Box": {
+            "address": "0xb4Ce2741Ac97C9fAdBd6a19Ec0883569cFCd36bE"
+        },
+        "BoxImplemetation": {
+            "address": "0x73d8020cB6d4e81605B16cc8c8273d874816D12A"
+        }
+    }
+}
